@@ -1,0 +1,18 @@
+[
+  {
+    "icon": "⌨️",
+    "accent": "p-orchid",
+    "name": "2Code",
+    "tagline": "Real-time collaborative coding platform",
+    "desc": "A platform where users can write, compile, and run code in multiple languages together, live. Built an interactive React.js frontend and a Node/Express backend wired up with Socket.IO for real-time collaboration, plus third-party compiler APIs for dynamic code execution.",
+    "tags": ["React.js", "Node.js", "Express", "Socket.IO"]
+  },
+  {
+    "icon": "🩺",
+    "accent": "p-mint",
+    "name": "Asha AI",
+    "tagline": "LLM-powered assistant for frontline health workers",
+    "desc": "Built for Meesho's ScriptedByHer Hackathon 2025 — an AI health assistant designed to support ASHA frontline healthcare workers across Bharat, with Hindi-language support built in. Placed among the top 15 of 35,000 teams nationally.",
+    "tags": ["LLMs", "Prompt Engineering", "Hindi NLP"]
+  }
+]

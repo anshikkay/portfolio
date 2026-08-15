@@ -1,0 +1,22 @@
+[
+  {
+    "role": "Application Engineer Intern",
+    "company": "Amazon · Appstore FTV & Tablet / 3P Tech-Link · Onsite, India",
+    "date": "Jan 2026 – Jun 2026",
+    "bullets": [
+      "Engineered an automated AI-driven load-testing pipeline using AWS Step Functions and Lambda (deployed via AWS CDK) to simulate high-concurrency peak traffic — think Prime Day and NFL Game Day — against Appstore's purchase and subscription infrastructure.",
+      "Migrated services to a cloud-native, loosely-coupled architecture, improving throughput, fault tolerance, and horizontal scalability at production scale.",
+      "Ran JDK 17 migration work for Java services, including local builds, dependency resolution, and compatibility triage using Amazon's Brazil tooling."
+    ]
+  },
+  {
+    "role": "AI Intern",
+    "company": "Seiko Electric Co. Ltd. · Onsite, Japan",
+    "date": "Oct 2025",
+    "bullets": [
+      "Built a deep-learning classifier on Microsoft's CvT-13 (Convolutional Vision Transformer) architecture to distinguish AI-generated images from human-created ones.",
+      "Processed and fine-tuned the model on 2.5 million images, writing custom data loaders to optimize GPU training and memory efficiency.",
+      "Reached 98.54% accuracy, 0.99 precision, 0.98 recall, and a 0.98 F1 score — and shipped an end-to-end CLI for training, evaluation with confusion matrices, and single-image prediction."
+    ]
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "name": "Anshika Yadav",
+  "logoText": "anshika.yadav",
+  "eyebrow": "open to opportunities",
+  "headlineTop": "hi, i'm anshika —",
+  "headlineEm": "i build things",
+  "headlineRest": "that hold up under real traffic.",
+  "lede": "ECE undergrad at IIIT Jabalpur who's spent the last year shipping load-testing pipelines at Amazon and training vision models in Japan. I like clean systems, tiny details, and the occasional bit of sparkle.",
+  "chips": ["IIITDMJ · B.Tech ECE", "ex-Amazon", "ex-Seiko Electric", "500+ LeetCode"],
+  "about": [
+    "Currently: wrapping up my B.Tech in Electronics & Communication at IIIT Jabalpur (2022–2026), while working across cloud infrastructure and applied AI.",
+    "At Amazon, I spent six months building automated load-testing pipelines for Appstore's purchase and subscription systems — the kind of infrastructure that has to hold up on Prime Day and NFL Game Day. At Seiko Electric in Japan, I trained a vision transformer to tell AI-generated images from human-made ones, on a dataset of 2.5 million images.",
+    "Outside of work, I'm usually deep in a Codeforces problem, or thinking about the next feature for a health-tech project aimed at frontline workers back home."
+  ],
+  "skills": {
+    "Languages": ["C++", "Python", "Java", "JavaScript", "HTML/CSS"],
+    "AI / ML": ["TensorFlow", "LangChain", "RAG", "Prompt Engineering", "Pandas / NumPy"],
+    "Cloud & Tools": ["AWS", "Docker", "Git / GitHub", "Linux"],
+    "Frameworks & Data": ["React.js", "Node.js / Express", "MongoDB", "SQL"],
+    "CS Fundamentals": ["DSA", "DBMS", "OOPS", "OS", "CN"]
+  },
+  "contact": {
+    "email": "anshikkaa2025@gmail.com",
+    "phone": "+91-7880063440",
+    "linkedin": "#",
+    "github": "#"
+  }
+}
